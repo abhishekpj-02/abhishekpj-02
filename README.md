@@ -4,7 +4,7 @@
 
 
 # CAREER OBJECTIVE
-Passionate about leaveraging my techinical expertise to drive innovation and solve complex challenges. Have a strong foundation in hardware design, software development, and system integeration.
+ Passionate about leaveraging my techinical expertise to drive innovation and solve complex challenges. Have a strong foundation in hardware design, software       development, and system integeration.
 
 # EDUCATIONAL QUALIFICATION
 ## Kerala Technical University  
@@ -14,13 +14,13 @@ Passionate about leaveraging my techinical expertise to drive innovation and sol
     2023-2027
 
   
-# Directorate of Higher Secondary Education
-  ### T V Puram Govt. HSS  
+## Directorate of Higher Secondary Education
+      T V Puram Govt. HSS  
       T V Turam, Vaikom  
       2020-2022
 
-# Central Board of Secondary Education  
-  ## Rajagiri Amala Public School   
+## Central Board of Secondary Education  
+     Rajagiri Amala Public School   
      Mothedathukavu,Vaikom    
 
 # CERETICATE COURSES
