@@ -1,4 +1,4 @@
-## 
+
 ![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/c0b9762e-6a99-4bb5-a319-edcecc4a9e26)
 
 
@@ -23,13 +23,16 @@
   *   Rajagiri Amala Public School   
      Mothedathukavu,Vaikom    
 
-# CERETICATE COURSES
+## CERETICATE COURSES
 * ## Coursera
    * [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/b76a8cd6772b770f623b990a8e814e79)
 
-# Workshops And Seminars
+## Workshops And Seminars
 *  Foundation of Electric and Hybrid Vehicles program by Techmaghi and IIT Delhi
 
-  
-  
+ ## Connect Me @
+*  [Linkedin](www.linkedin.com/in/abhishek-p-j-488200280)
+ 
+ 
+
   
