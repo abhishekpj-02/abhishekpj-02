@@ -26,7 +26,9 @@
 ## CERETICATE COURSES
 * ## Coursera
    * [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/b76a8cd6772b770f623b990a8e814e79)
+   * [Introduction to Career Skills in Software Development](https://lnkd.in/g_2JKnFV)
 
+     
 ## Workshops And Seminars
 *  Foundation of Electric and Hybrid Vehicles program by Techmaghi and IIT Delhi
 
