@@ -31,10 +31,10 @@
      
 ## Workshops And Seminars
 *  Foundation of Electric and Hybrid Vehicles program by Techmaghi and IIT Delhi
-
+*  Hands-on workshop on the Vega processor - By C-Dac and Saintgits College of Engineering
  ## Connect Me @
 *  [Linkedin](www.linkedin.com/in/abhishek-p-j-488200280)
- 
+*  
  
 
   
