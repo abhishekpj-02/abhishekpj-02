@@ -13,7 +13,7 @@
 
 - 💡 I'm an Electronics and Computer Engineering student.  
 - 🔐 Currently exploring **Data Science** and **Machine Learning**.  
-- 💻 Enthusiastic about **Embedded Systems**, **IoT**, and **Full-Stack Development**.  
+- 💻 Enthusiastic about **Embedded Systems**, **IoT**. 
 - 🧩 Love creating projects that blend both **hardware** and **software**.  
 - ♟️ Hobbies: Listening to **music** and playing **chess**.  
 - 👨‍💻 Explore my repos to see what I'm building!
