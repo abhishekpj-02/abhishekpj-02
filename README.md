@@ -67,16 +67,15 @@
 
 ---
 
-### 📊 GitHub Insights
+### 📈 GitHub Insights
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abhishekpj-02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpj-02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekpj-02&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpj-02&langs_count=10&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=445" height="180px" />
 </div>
 
-<p align="center"><i>Note: Some of my best work lives in private repos. Feel free to reach out to collaborate!</i></p>
+<p align="center"><i>(Note: Some of my best work is in private repos. Feel free to connect to know more!)</i></p>
 
----
 
 ### 🌐 Connect With Me
 
