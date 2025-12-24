@@ -11,7 +11,7 @@
 
 - 🎓 **Electronics and Computer Engineering** student always curious about how hardware meets code.  
 - 🧠 Currently diving into **Data Science** and **Machine Learning**.  
-- ⚡ I love building projects that **connect sensors, microcontrollers, and the cloud**.  
+- ⚡ I love building projects that solves a public problem.  
 - 🧩 My passion lies in blending **software intelligence with hardware precision**.  
 - 🎧 Usually coding with some music or a quick **chess break** in between moves.  
 - 🛠️ Check out my repositories to see the fusion of logic and creativity in my work.
