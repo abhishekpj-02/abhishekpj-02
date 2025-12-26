@@ -67,7 +67,12 @@
 
 ---
 
-### 📈 GitHub Insights
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats : </b>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekpj-02&theme=tokyonight&hide_border=true" />
+</p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhishekpj-02&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" height="180px" />
