@@ -73,9 +73,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekpj-02&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishekpj-02&theme=tokyonight&utcOffset=5.5" />
-</p>
+
 
 
 <p align="center"><i>(Note: Some of my best work is in private repos. Feel free to connect to know more!)</i></p>
