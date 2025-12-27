@@ -67,20 +67,16 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats : </b>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekpj-02&theme=tokyonight&hide_border=true" />
-</p>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekpj-02&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishekpj-02&theme=tokyonight&utcOffset=5.5" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekpj-02&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpj-02&langs_count=10&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=445" height="180px" />
-</div>
 
 <p align="center"><i>(Note: Some of my best work is in private repos. Feel free to connect to know more!)</i></p>
 
