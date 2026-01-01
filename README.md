@@ -76,7 +76,7 @@
 
 
 
-<p align="center"><i>(Note: Some of my best work is in private repos. Feel free to connect to know more!)</i></p>
+<p align="center"><i>(Note:  Feel free to connect to know more!)</i></p>
 
 
 ### 🌐 Connect With Me
