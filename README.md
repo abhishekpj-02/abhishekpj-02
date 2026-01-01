@@ -17,7 +17,9 @@
 - 🛠️ Check out my repositories to see the fusion of logic and creativity in my work.
 
 ---
-
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhishek._.pj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-p-j-488200280) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekpj12@gmail.com) 
+---
 ### 🧰 Tech Stack
 
 #### 💬 Programming Languages
@@ -73,12 +75,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekpj-02&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhishekpj-02&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-</p>
-
+![](https://github-contributor-stats.vercel.app/api?username=abhishekpj-02&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 
