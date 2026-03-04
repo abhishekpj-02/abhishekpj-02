@@ -17,25 +17,26 @@
 - Hobbies: **music and chess**.
 
 ---
-
-## Featured Project
+## Current Project
 
 ### Gesture-Based Authentication System
 
-A machine learning based authentication system that verifies users through hand gestures.
+Currently developing a machine learning based authentication system that identifies users through unique hand gestures.
 
-**Key Components**
-- TensorFlow ML model for gesture recognition  
-- OpenCV for real-time hand tracking  
-- Flask API for remote authentication  
-- Tkinter GUI with real-time logs and interaction  
+**Core Technologies**
+- TensorFlow for gesture classification  
+- OpenCV for real-time hand detection and tracking  
+- Flask API for remote authentication communication  
+- Tkinter (ttkbootstrap) for an interactive desktop interface  
 
-**Features**
-- Personalised gesture recognition for each user  
-- Real-time authentication system  
-- GUI based monitoring interface  
+**Current Development Focus**
+- Improving gesture detection accuracy  
+- Associating gestures with individual user profiles  
+- Handling variations in hand size, speed, and orientation  
+- Enhancing GUI with smoother interaction and visual feedback  
 
----
+**Goal**
+Create a secure and intuitive authentication system where users can log in using personalised gesture patterns instead of passwords.
 
 ## Tech Stack
 
