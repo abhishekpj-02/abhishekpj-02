@@ -20,25 +20,27 @@
 
 ## Current Project
 
-### Gesture-Based Authentication System
+### AR-Based Rehabilitation System
 
-Currently developing a machine learning based authentication system that identifies users through unique hand gestures.
+Currently developing an Augmented Reality based rehabilitation platform designed to assist patients during physical therapy exercises. The system uses interactive visual guidance and real-time motion tracking to help patients perform rehabilitation movements correctly and consistently.
 
-**Core Technologies**
-- TensorFlow for gesture classification  
-- OpenCV for real-time hand detection and tracking  
-- Flask API for remote authentication communication  
-- Tkinter (ttkbootstrap) for an interactive desktop interface  
+**Core Idea**
+Provide an engaging rehabilitation environment where patients receive visual feedback while performing exercises, improving recovery efficiency and motivation.
+
+**Key Components**
+- Computer vision for motion detection and tracking  
+- Augmented Reality overlays to guide exercises  
+- Real-time feedback system for posture and movement correction  
+- Interactive interface to monitor patient progress  
 
 **Current Development Focus**
-- Improving gesture detection accuracy  
-- Associating gestures with individual user profiles  
-- Handling variations in hand size, speed, and orientation  
-- Enhancing GUI with smoother interaction and visual feedback  
+- Designing AR-guided rehabilitation exercises  
+- Improving movement detection accuracy  
+- Developing a feedback mechanism for incorrect posture  
+- Creating a simple interface for therapists to monitor sessions  
 
 **Goal**
-Create a secure and intuitive authentication system where users can log in using personalised gesture patterns instead of passwords.
-
+Build an accessible rehabilitation system that improves recovery outcomes by combining computer vision, augmented reality, and interactive feedback.
 ## Tech Stack
 
 ### Programming
